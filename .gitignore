@@ -1,4 +1,9 @@
 # C++ objects and libs
+
+*
+!/**/
+!*.*
+
 *.slo
 *.lo
 *.o
@@ -51,6 +56,4 @@ compile_commands.json
 # QtCreator local machine specific files for imported projects
 *creator.user*
 
-*
-!/**/
-!*.*
+
