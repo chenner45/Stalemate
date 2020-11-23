@@ -13,3 +13,7 @@ Some restrictions:
 - No "moves" will be considered, only the state of the board will be solved for
 
 Example solutions:
+<br />
+<img src="https://user-images.githubusercontent.com/39103511/99953121-a0d8a000-2d35-11eb-82e6-f2c45b8f0b71.png" width="250">
+<img src="https://user-images.githubusercontent.com/39103511/99953528-35db9900-2d36-11eb-9272-a35243a83080.png" width="250">
+<img src="https://user-images.githubusercontent.com/39103511/99953590-50157700-2d36-11eb-96b7-61205fb30da7.png" width="250">
